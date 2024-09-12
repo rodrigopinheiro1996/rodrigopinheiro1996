@@ -1,6 +1,6 @@
 ### About me
 
-Hello, world! My name is Rodrigo. As a data engineer with a background in technical support, I’ve honed my skills in data modeling, data processing, and implementing cloud solutions using top tools like AWS, Databricks, and PySpark. I’m known for being proactive, dedicated, and communicative-qualities I developed through my customer service experience. I'm also a strong team player. I strive to use a data-driven approach to make informed decisions, aiming to improve efficiency and optimize costs and processes through cloud technology.
+Hello, world! My name is Rodrigo. As a data engineer with a background in technical support, I’ve honed my skills in data modeling, data processing, and implementing cloud solutions using top tools like AWS, Databricks, and PySpark. I’m known for being proactive, dedicated, and communicative-qualities I developed through my customer service experience. I'm also a strong team player. I strive to use a data-driven approach to make informed decisions, aiming to improve efficiency and optimize costs and processes.
 ____
 
 ### 📊 Technologies and tools 📊
